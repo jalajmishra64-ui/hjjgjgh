@@ -13,7 +13,7 @@ API_ID = 35458756
 API_HASH = 'eac538ffbeb1c5a039a9a9e6ff293149'
 BOT_TOKEN = '8756892218:AAF-rJYbk8kNCQDamJCFj82IjZwy2Dwy8zI'
 ADMIN_ID = [7579324057]
-CHECKER_API_URL = 'http://85.90.216.140//shopify_parallel'
+CHECKER_API_URL = 'https://web-production-3d364.up.railway.app/shopify?site=https://touch-of-finland.myshopify.com&cc=4147181445119641|04|2028|933&proxy='
 
 
 
